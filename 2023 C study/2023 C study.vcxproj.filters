@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\13 Structure">
+      <UniqueIdentifier>{431cc68b-7ec6-4350-bc62-453946d805d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12 Char and String">
+      <UniqueIdentifier>{74d00faa-3cfd-4501-9657-c81b1f12940c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\11 pointer">
+      <UniqueIdentifier>{a0bc4a2d-dad3-4161-a4c8-680aaf332331}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\14 Pointer Deepening">
+      <UniqueIdentifier>{cd31db63-4545-4102-b478-3cf469805ee4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\15 Stream and File io">
+      <UniqueIdentifier>{71e036dc-6048-4a9b-9943-4f7ef2f46ab9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\16 Preprocessor and Multi source file">
+      <UniqueIdentifier>{ae300fc0-797f-496f-a444-e90248b16e1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\16 Preprocessor and Multi source file\multi_power">
+      <UniqueIdentifier>{788e8757-ccda-44fe-ada8-1923512d61ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\16 Preprocessor and Multi source file\multi_rect">
+      <UniqueIdentifier>{1e596565-75ee-436e-b3e1-348c6ef2d6fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\16 Preprocessor and Multi source file\multi_student">
+      <UniqueIdentifier>{f4f58fef-1b87-4f1c-9ba7-1c75fd8cf4c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\17 Malloc">
+      <UniqueIdentifier>{89e72e33-a1fe-49a5-9034-1e8ba06ae03f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\dhexample">
+      <UniqueIdentifier>{ecbca674-c2e4-4453-8c6f-80202672c2a4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pointer_2.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer 1.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_3.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_arith_1.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_arith_3.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_ swap_1.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_simulation.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array_2.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_array_3.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_arrray_1.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_func.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_imageprocessing.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_slope.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_swap_2.c">
+      <Filter>소스 파일\11 pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="string_1.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_wc.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_stringconst.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_strcpy_strcat.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_scanf_printf.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_process.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_gets.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_getch.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_getchar.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_4.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_2.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_3.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_stringarray_2.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_wheel_of_fortune.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_strtok.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_strstr.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_stringarray.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_strcmp.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_strchr.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_sscanf.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_sprintf.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="String_my_strtok.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_encrypt.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_atoi.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="string_dic.c">
+      <Filter>소스 파일\12 Char and String</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_student_2.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_student_1.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_point.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_vector.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_array_of_struct.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_enum_1.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_nested_struct.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_pointer_to_st.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_st_pointer.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_typedef.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_union.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_union2.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_miniproject_3.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="structure_best_students.c">
+      <Filter>소스 파일\13 Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_arraypointer.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_stringarray.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd _dp2.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_constpointer.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_dp1.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_multi_array.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_pf_1.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_pf_2.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_pf_3.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_vp.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_main_arg.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_mile2km.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_qsort.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_qsort_challenge.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="pd_visection.c">
+      <Filter>소스 파일\14 Pointer Deepening</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_scanf_1.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_scanf_3.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_search.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_image_copy.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file contacts.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_binary_1.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_binary_2.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_binary_file.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fcopy.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fgetc.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_file_open.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_file_remove.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fputc.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_fseek.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="file_score_3.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_scanf_2.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_scanf_4.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="stream_scanf_6.c">
+      <Filter>소스 파일\15 Stream and File io</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_bit_shift_ex1.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_define1.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_ifdef1.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_ifdef2.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_macro1.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_macro2.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_macro4.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_power_main.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_power</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_power.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_power</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_rect.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_rect</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_rect_main.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_rect</Filter>
+    </ClCompile>
+    <ClCompile Include="multi_student.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_student</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_bit_field.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_calc_circle_area.c">
+      <Filter>소스 파일\16 Preprocessor and Multi source file</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_string.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_book2.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_malloc.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_malloc2.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_malloc3.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_malloc5.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_movies.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_realloc.c">
+      <Filter>소스 파일\17 Malloc</Filter>
+    </ClCompile>
+    <ClCompile Include="swhitch.c">
+      <Filter>소스 파일\dhexample</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="multi_power.h">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_power</Filter>
+    </ClInclude>
+    <ClInclude Include="multi_rect.h">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_rect</Filter>
+    </ClInclude>
+    <ClInclude Include="multi_student.h">
+      <Filter>소스 파일\16 Preprocessor and Multi source file\multi_student</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
